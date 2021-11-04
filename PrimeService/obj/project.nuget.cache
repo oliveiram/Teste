@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "FmP5JDQ5nOj7E0/7Bi9ZsHPl0rwN1EPTJpBf0vw5a+NHICVQe/ZhlDwNXODyY4oGBp5W1Tg0JdTbaFfxlDFssw==",
+  "success": true,
+  "projectFilePath": "E:\\zProjects\\vscoreprojects\\Teste\\PrimeService\\PrimeService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
